@@ -1,0 +1,9 @@
+{
+    "timestamp": "2026-05-31T12:00:00Z",
+    "accuracy": 0.95,
+    "f1_macro": 0.94,
+    "roc_auc_ovr": 0.96,
+    "n_test": 30,
+    "model_name": "random_forest",
+    "n_estimators": 200
+}
